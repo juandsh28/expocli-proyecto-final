@@ -28,3 +28,4 @@ Creación del proyecto:
 --Instalar Firebase
 1. yarn add firebase@8.9.1
 2. Crear un proyecto en firebase y verificar un suario en authentication.
+3- Crear el apikey para firebase.
