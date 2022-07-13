@@ -22,7 +22,8 @@ Creación del proyecto:
 1. json-server --watch db.json
 
 -- Prender json server:
-1. json-server --host 192.168.100.4 --port 3000 db.json
+1. json-server --host ip --port 3000 db.json
+2. ip -> la ip de la pc
 
 --Instalar Firebase
 1. yarn add firebase@8.9.1
