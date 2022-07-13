@@ -1,0 +1,92 @@
+{
+  "paises": [
+    {
+      "nombre": "Alemania",
+      "capital": "Berlin",
+      "habitantes": "83 Millones",
+      "continente": "Europa",
+      "moneda": "Euro",
+      "idioma": "Alemán",
+      "gentilicio": "Alemanes",
+      "prefijo": "GER",
+      "id": 1
+    },
+    {
+      "nombre": "Brasil",
+      "capital": "Brasilia",
+      "habitantes": "212 Millones",
+      "continente": "América S.",
+      "moneda": "Real Brasileño",
+      "idioma": "Portugués",
+      "gentilicio": "brasileños",
+      "prefijo": "BRA",
+      "id": 2
+    },
+    {
+      "nombre": "España",
+      "capital": "Madrid",
+      "habitantes": "47 Millones",
+      "continente": "Europa",
+      "moneda": "Euro",
+      "idioma": "Español",
+      "gentilicio": "Españoles",
+      "prefijo": "ESP",
+      "id": 3
+    },
+    {
+      "nombre": "Bélgica",
+      "capital": "Bruselas",
+      "habitantes": "11 Millones",
+      "continente": "Europa",
+      "moneda": "Euro",
+      "idioma": "Neerlandés",
+      "gentilicio": "Belgas",
+      "prefijo": "BEL",
+      "id": 5
+    },
+    {
+      "nombre": "Canadá",
+      "capital": "Ottawa",
+      "habitantes": "38 Millones",
+      "continente": "America N.",
+      "moneda": "Dolar Canadiense",
+      "idioma": "Inglés",
+      "gentilicio": "Canadienses",
+      "prefijo": "CAN",
+      "id": 6
+    },
+    {
+      "nombre": "Catar",
+      "capital": "Doha",
+      "habitantes": "3 Millones",
+      "continente": "Asia",
+      "moneda": "Riyal Catarí",
+      "idioma": "Árabe",
+      "gentilicio": "Catarí",
+      "prefijo": "QAT",
+      "id": 8
+    },
+    {
+      "nombre": "Nigeria",
+      "capital": "Abuya",
+      "habitantes": "206 Millones",
+      "continente": "África",
+      "moneda": "Naira",
+      "idioma": "Inglés",
+      "gentilicio": "Nigerianos",
+      "prefijo": "NGR",
+      "id": 9
+    },
+    {
+      "nombre": "Australia",
+      "capital": "Canberra",
+      "habitantes": "26 Millones",
+      "continente": "Oceanía",
+      "moneda": "Dólar Australiano",
+      "idioma": "Inglés",
+      "gentilicio": "Australianos",
+      "prefijo": "AUS",
+      "id": 10
+    }
+  ]
+}
